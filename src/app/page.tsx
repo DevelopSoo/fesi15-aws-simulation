@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <div>
-      <div>한국어: 안녕3</div>
+      <div>한국어: 안녕 codedeploy</div>
       <div>영어: {message}</div>
     </div>
   );
